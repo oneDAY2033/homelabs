@@ -7,6 +7,7 @@ Write-ups from penetration testing lab work — CEH-style engagements, CTF-style
 | Target | Summary | Severity |
 |---|---|---|
 | [Jenkins CI/CD](./jenkins/) | Anonymous FTP → leaked creds → Jenkins Script Console RCE → SYSTEM | Critical |
+| [Maian Cart 3.8](./maiancart/) | Unauthenticated elFinder RCE (CVE-2021-32172) → token manipulation → SYSTEM | Critical |
 
 ---
 
