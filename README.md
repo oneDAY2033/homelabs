@@ -1,6 +1,6 @@
 # homelabs
 
-Write-ups from penetration testing lab work — CEH-style engagements, CTF-style boxes, and self-directed exploitation exercises. Built as a running portfolio while working through Inveteck Global's CyberLab, PwnTillDawn, HackTheBox, and similar platforms.
+Write-ups from penetration testing lab work — CEH-style engagements, CTF-style boxes, and self-directed exploitation exercises. Built as a running portfolio while working through PwnTillDawn, HackTheBox, VulnHub, and similar platforms.
 
 ## Write-ups
 
